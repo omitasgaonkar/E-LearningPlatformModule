@@ -9,7 +9,8 @@ public class Emp {
 	private String city;
 	
 	private String address;
-	
+
+	private String mobileNumber;
 	
 
 	public String getCity() {
