@@ -6,6 +6,8 @@ public class Emp {
 	
 	private String name;
 
+	private String city;
+
 	public Integer getId() {
 		return id;
 	}
